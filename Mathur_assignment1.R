@@ -1,7 +1,4 @@
-#Data 630 Machine Learning
-#Assignment 1
-#Script by Karishma Mathur
-#Professor Bati
+#This script will run the Apriori algorithm on the burn dataset
 
 #Install all packages required for the Apriori algorithm
 install.packages("arules")
