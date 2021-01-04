@@ -57,7 +57,7 @@ Here is a [link](https://github.com/lbraglia/aplore3/blob/master/rawdata/BURN/BU
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running, download the `apriori_burn.R` and the text input file, `burn.csv`, into the same folder. Then run the code in an IDE software, such as RStudio.
+To get a local copy up and running, download the `apriori_burn.R` and the text input file, `burn.csv`. Then run the code in an IDE software, such as RStudio.  Set the working directory to the location of the CSV file.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
