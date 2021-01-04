@@ -69,7 +69,7 @@ The code guides you through the following:
 3. Exploring through histograms to find interesting variables
 4. Pre-processing such as cleanup, reduction, and transformation (we removed key identifiers due to no added value, perfomed discretization, and factoring)
 5. Perform the Apriori Algorithm, generate rules, and inspect those rules
-6. Change parameters to improve efficiency
+6. Change parameters to improve accuracy
 7. Visualize our rules using a matrix plot
 
 <!-- CONCLUSION -->
