@@ -33,6 +33,7 @@
       <a href="#getting-started">Getting Started</a>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -67,9 +68,12 @@ The code guides you through the following:
 2. Visualizing the formatting of the variables (datatypes, number of rows/columns, measures of central tendancy, statistical descriptions, etc.)
 3. Exploring through histograms to find interesting variables
 4. Pre-processing such as cleanup, reduction, and transformation (we removed key identifiers due to no added value, perfomed discretization, and factoring)
-5. Perform the Apriori Algorithm, generate rules, and inspect those rules
+5. Perfo the Apriori Algorithm, generate rules, and inspect those rules
 6. Change parameters to improve efficiency
 7. Visualize our rules using a matrix plot
+
+<!-- CONCLUSION -->
+## Conclusion
 
 The below plot shows the antecedents and the y-axis shows the 2 consequents.  The lift ratio color key on the right side of the plot shows dark red as the highest lift ratio, or the strongest rule, and the lightest red as the lowest lift ratio, or the weaker rule.  However, the “weaker” rule here has a lift ratio above 1, which is still quite strong.  What can be seen here is that the strongest rules apply to burns not caused by flames, since the darkest red is showing in the top half of the graph.  The “weakest” rule applies to burns caused by flames, since the lightest color is on the bottom half of the graph.  It is interesting to see a greater number of correlations for non-flame related burns, which is very telling.  The individuals in this dataset needed to visit a burn facility due to either not seeing flames and accidentally burning themselves or not realizing something was highly flammable and burning themselves.  Thus, I would assume that a majority of burns occur by accident.
 
