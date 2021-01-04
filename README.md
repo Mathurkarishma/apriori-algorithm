@@ -91,5 +91,6 @@ Project Link: [https://github.com/Mathurkarishma/burn-victim-factors](https://gi
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* Dr. Firdu Bati at [University of Maryland, Global Campus](https://www.umgc.edu/) - Fall 2019
+* Dr. Firdu Bati at [University of Maryland, Global Campus](https://www.umgc.edu/) - Fall 2019 </br >
+* [Burn Study Dataset Description](https://github.com/lbraglia/aplore3/blob/master/rawdata/BURN/BURN_Code_Sheet.pdf)
 
