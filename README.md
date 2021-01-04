@@ -68,7 +68,7 @@ The code guides you through the following:
 2. Visualizing the formatting of the variables (datatypes, number of rows/columns, measures of central tendancy, statistical descriptions, etc.)
 3. Exploring through histograms to find interesting variables
 4. Pre-processing such as cleanup, reduction, and transformation (we removed key identifiers due to no added value, perfomed discretization, and factoring)
-5. Perfo the Apriori Algorithm, generate rules, and inspect those rules
+5. Perform the Apriori Algorithm, generate rules, and inspect those rules
 6. Change parameters to improve efficiency
 7. Visualize our rules using a matrix plot
 
